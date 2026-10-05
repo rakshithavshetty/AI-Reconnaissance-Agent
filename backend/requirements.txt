@@ -1,0 +1,7 @@
+Flask
+flask-cors
+groq
+python-dotenv
+requests
+dnspython
+python-whois
